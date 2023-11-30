@@ -1,4 +1,4 @@
-GET http://localhost:9191/start/hello
+GET http://localhost:9191/start/findById?id=5
 Accept: application/json
 
 ###
